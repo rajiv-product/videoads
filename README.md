@@ -1,2 +1,2 @@
 # videoads
-HTML5 Vide Ads
+HTML5 Video Ads
